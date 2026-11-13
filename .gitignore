@@ -12,3 +12,6 @@ build/
 # 日志与临时文件
 *.log
 *.tmp
+
+# 本地工作区数据
+.workbuddy/
